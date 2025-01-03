@@ -19,3 +19,8 @@
 -CSS/Flexbox: For styling and layout.
 
 -JavaScript (ES6): For logic and interactivity.
+
+#Output
+![screenahot of the 1st part](my-airbnb-experiences-clone/public/assets/airbnb1.png)
+
+![screenahot of the 2nd part](my-airbnb-experiences-clone/public/assets/airbnb2.png)
